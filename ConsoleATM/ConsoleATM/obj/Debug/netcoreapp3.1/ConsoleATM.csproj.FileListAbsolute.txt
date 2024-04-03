@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\bin\Debug\netcoreapp3.1\ConsoleATM.exe
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\bin\Debug\netcoreapp3.1\ConsoleATM.deps.json
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\bin\Debug\netcoreapp3.1\ConsoleATM.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\bin\Debug\netcoreapp3.1\ConsoleATM.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\bin\Debug\netcoreapp3.1\ConsoleATM.dll
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\bin\Debug\netcoreapp3.1\ConsoleATM.pdb
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\obj\Debug\netcoreapp3.1\ConsoleATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\obj\Debug\netcoreapp3.1\ConsoleATM.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\obj\Debug\netcoreapp3.1\ConsoleATM.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\obj\Debug\netcoreapp3.1\ConsoleATM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\obj\Debug\netcoreapp3.1\ConsoleATM.dll
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\obj\Debug\netcoreapp3.1\ConsoleATM.pdb
+C:\Users\Admin\source\repos\ConsoleATM\ConsoleATM\obj\Debug\netcoreapp3.1\ConsoleATM.genruntimeconfig.cache
