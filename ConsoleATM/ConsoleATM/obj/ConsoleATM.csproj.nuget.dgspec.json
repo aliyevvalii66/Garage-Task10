@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ConsoleATM\\ConsoleATM\\ConsoleATM.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\ConsoleApp2\\ConsoleATM\\ConsoleATM\\ConsoleATM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ConsoleATM\\ConsoleATM\\ConsoleATM.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\ConsoleApp2\\ConsoleATM\\ConsoleATM\\ConsoleATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ConsoleATM\\ConsoleATM\\ConsoleATM.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ConsoleApp2\\ConsoleATM\\ConsoleATM\\ConsoleATM.csproj",
         "projectName": "ConsoleATM",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ConsoleATM\\ConsoleATM\\ConsoleATM.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\ConsoleApp2\\ConsoleATM\\ConsoleATM\\ConsoleATM.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ConsoleATM\\ConsoleATM\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\ConsoleApp2\\ConsoleATM\\ConsoleATM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
